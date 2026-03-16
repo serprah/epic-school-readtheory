@@ -2,7 +2,7 @@
 // @name         readtheory answer bot
 // @version      3.0
 // @description  no need to read. only works fro gr 12 quizzes.
-// @author       Regreton
+// @author       KingSerprah
 // @match        https://readtheoryapp.com/app/student/quiz*
 // @grant        none
 // @run-at       document-ready
@@ -216,7 +216,7 @@
                 }, "5000");
         }
 
-    }, 10000);
+    }, 8000); // Delay before the bot starts, only change if your tab loads very fast
 
 
     // Your code here...

@@ -216,7 +216,7 @@
                 }, "5000");
         }
 
-    }, 10000);
+    }, 8000); // Delay before the bot starts, only change if your tab loads very fast
 
 
     // Your code here...

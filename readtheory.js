@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         readtheory answer bot
-// @version      3.0
+// @version      1.0
 // @description  readtheory auto answer bot for only grade 12 quizzes.
 // @author       KingSerprah
 // @match        https://readtheoryapp.com/app/student/quiz*

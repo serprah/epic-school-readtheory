@@ -18,13 +18,14 @@ auto stops if the question is wrong
 
 # INSTRUCTIONS
 
-#method 1 (best) 
-#copy the readtheory.js / copy raw file
-#create a userscript for your userscript manager
-#paste it in and save
-#done
-#method  2 console
-#copy readtheory.js / copy raw file
-#paste into console
-#done
-#you have to re paste it every time you finish a quiz
+method 1 (best) 
+copy the readtheory.js / copy raw file
+create a userscript for your userscript manager
+paste it in and save
+done
+
+method  2 console 
+copy readtheory.js / copy raw file
+paste into console
+done
+you have to re paste it every time you finish a quiz

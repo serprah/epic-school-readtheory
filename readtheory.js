@@ -118,7 +118,7 @@
         const Dreams = {quiztitle:"The Unconscious Universe: An Exploration into the Psychology of Dreams", quizanswers: ["B", "E","B","C","C"]};
         const Egypt = {quiztitle:"The Mysteries and Wisdom of The Egyptian Book of the Dead", quizanswers: ["C", "C","C","C","B"]};
         const Baseball = {quiztitle:"Baseball: America's Pastime", quizanswers: ["B", "C","D","D","A"]};
-        const TaylorSwift = {quiztitle:"Taylor Swift: A Symphony of Growth and Influence", quizanswers: ["C", "D","D","C","D"]};
+        const TaylorSwift = {quiztitle:"Taylor Swift: A Symphony of Growth and Influence", quizanswers: ["C", "D","C","C","D"]};
         const addextraquiz = {quiztitle:"quiz title", quizanswers: ["A", "A","A","A","A"]};
                                                                                    //|
         // Add the const variable of the new quiz to the list of alltests down below V

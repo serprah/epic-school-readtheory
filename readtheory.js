@@ -109,7 +109,7 @@
         const TheDouble = {quiztitle:"The Double-Edged Sword: Tackling Smartphone Addiction", quizanswers: ["B", "B","C","D","B"]};
         const Apollo = {quiztitle:"Apollo 11: The Pinnacle of Human Endeavor", quizanswers: ["D", "B","E","B","C"]};
         const National = {quiztitle:"National Parks: Preserving America's Natural Heritage", quizanswers: ["D", "B","C","B","C"]};
-        const Bigfoot = {quiztitle:"Unraveling the Mystique: Bigfoot, An Interstellar Enigma", quizanswers: ["D", "B","C","E","D"]};
+        const Bigfoot = {quiztitle:"Unraveling the Mystique: Bigfoot, An Interstellar Enigma", quizanswers: ["D", "B","C","B","D"]};
         const Business = {quiztitle:"The Journey of Starting a Small Business", quizanswers: ["B", "D","C","A","A"]};
         const Courtroom = {quiztitle:"Inside the Courtroom: A Comprehensive Look at Court Procedures", quizanswers: ["C", "D","C","A","A"]};
         const Streetcar = {quiztitle:"A Streetcar Named Desire: Two Viewpoints", quizanswers: ["D", "C","A","E","C"]};
@@ -223,16 +223,21 @@
                 }, "5000");
         }
 
-    }, 8000);
+    }, 8000); // Delay before the bot starts, only change if your tab loads very fast
 
 
     // Your code here...
+    // Redirect when the final "Finish" button appears
 let finishCheck = setInterval(() => {
     const finishBtn = document.querySelector(".primary-button.quiz-result-modal__continue.quiz-tab-item");
 
     if (finishBtn) {
         console.log("Quiz finished. Redirecting to main quiz page...");
         clearInterval(finishCheck);
-        window.location.href = "https://readtheoryapp.com/app/student/quiz";
-}, 1500);
+        window.location.href = "https://readtheory.com/app/student/quiz"; // edit the redirect link if it is diffent, it could be
+        // readtheory.org/app/student/quiz
+        // readtheoryapp.com/app/student/quiz
+        // readtheory.com/app/student/quiz
+    }
+}, 1500); // delay for clicking finish button
 })();

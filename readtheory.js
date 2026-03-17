@@ -107,7 +107,7 @@
         const Wind = {quiztitle:"Wind Energy: Under Attack", quizanswers: ["D","B","E","A","E"]};
         const Wright = {quiztitle:"Wright and Nature", quizanswers: ["D","A","E","C","C"]};
         const TheDouble = {quiztitle:"The Double-Edged Sword: Tackling Smartphone Addiction", quizanswers: ["B", "B","C","D","B"]};
-        const Apollo = {quiztitle:"Apollo 11: The Pinnacle of Human Endeavor", quizanswers: ["D", "E","C","B","C"]};
+        const Apollo = {quiztitle:"Apollo 11: The Pinnacle of Human Endeavor", quizanswers: ["D", "B","E","B","C"]};
         const National = {quiztitle:"National Parks: Preserving America's Natural Heritage", quizanswers: ["D", "B","C","B","C"]};
         const Bigfoot = {quiztitle:"Unraveling the Mystique: Bigfoot, An Interstellar Enigma", quizanswers: ["D", "B","C","C","D"]};
         const Business = {quiztitle:"The Journey of Starting a Small Business", quizanswers: ["B", "D","C","A","A"]};

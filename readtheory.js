@@ -4,6 +4,8 @@
 // @description  readtheory auto answer bot for only grade 12 quizzes.
 // @author       KingSerprah
 // @match        https://readtheoryapp.com/app/student/quiz*
+// @match        https://readtheory.com/app/student/quiz*
+// @match        https://readtheory.org/app/student/quiz*
 // @grant        none
 // @run-at       document-ready
 // ==/UserScript==
@@ -221,18 +223,16 @@
                 }, "5000");
         }
 
-    }, 8000); // Delay before the bot starts, only change if your tab loads very fast
+    }, 8000);
 
 
     // Your code here...
-    // Redirect when the final "Finish" button appears
 let finishCheck = setInterval(() => {
     const finishBtn = document.querySelector(".primary-button.quiz-result-modal__continue.quiz-tab-item");
 
     if (finishBtn) {
         console.log("Quiz finished. Redirecting to main quiz page...");
         clearInterval(finishCheck);
-        window.location.href = "https://readtheoryapp.com/app/student/quiz"; // edit the redirect link if it is diffent
-    }
-}, 1500); // delay for clicking finish button
+        window.location.href = "https://readtheoryapp.com/app/student/quiz";
+}, 1500);
 })();

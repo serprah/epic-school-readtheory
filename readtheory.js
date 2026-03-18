@@ -205,20 +205,31 @@
             //checks for error and clears the clicking stuff
             //console.log(idList);
             let isWrong = 0; isWrong += 1;
-        let myInterval = setInterval(intervalTest, 1000);
+            // checks for error and stops everything if one is found
+            let myInterval = setInterval(intervalTest, 1000);
 
-        function intervalTest() {
+            function intervalTest() {
 
-            let progressTrack = document.getElementsByClassName("question-marker submitted");
+                let progressTrack = document.getElementsByClassName("question-marker submitted");
 
-            for (let i = 0; i < progressTrack.length; i++) {
+                for (let i = 0; i < progressTrack.length; i++) {
 
-                if (progressTrack.item(i).innerHTML.includes("/assets/app/quiz/icon-answer-failed.svg")) {
+                    if (progressTrack.item(i).innerHTML.includes("/assets/app/quiz/icon-answer-failed.svg")) {
 
-                    console.log("There's a wrong answer.");
+                        console.log("There's a wrong answer. Stopping bot.");
+
+                        // stop all scheduled answer clicks
+                        for (let id of idList) {
+                            clearTimeout(id);
+                        }
+
+                        // stop this interval
+                        clearInterval(myInterval);
+
+                        return; // exit function immediately
+                    }
                 }
             }
-        }
 
         } catch (err) {
             setTimeout(() => {

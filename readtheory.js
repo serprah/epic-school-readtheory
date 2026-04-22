@@ -123,13 +123,14 @@
         const Social2 = {quiztitle:"The Psychology of Social Media: Impact and Implications", quizanswers: ["A", "C","C","C","C"]};
         const VocabArt = {quiztitle:"The Vocabulary Of Art", quizanswers: ["A", "B","A","D","B"]};
         const QuietResilience = {quiztitle:"A Quiet Resilience", quizanswers: ["A", "C","C","B","B"]};
+        const GeographyEconomy = {quiztitle:"How Geography Shapes Economic Activity", quizanswers: ["C", "B","D","B","A"]};
         const addextraquiz = {quiztitle:"quiz title", quizanswers: ["A", "A","A","A","A"]};
                                                                                    //|
         // Add the const variable of the new quiz to the list of alltests down below V
         const alltests = [Paints, ABeetleBox, AGoodDeath,ALackBias,APresTrad,AStreetcarDesire,AmericanFamily,Antibiotic,Antonio,ArguePos,Autism,BioAdapt,BonCly,BookRec, Bovine, Capital, Chronic, Concentrated, Concepts,Dismissed,Dracula,
                           Easter, EPCOT, Eric,Even, Experiment, Food,Freedom,Friendly,Frigg,From,Ghost,Giant,Grammar,Helmet,Hiroshima,Home, InImagined, InJeopardy, IntAug, ItsJeep, Killer, LibArts, Maintain, Mary,McCarthy,Minimal, Modern, Moths, MtnTop,
                           New, Novel, Offspring,OverAuth,Plague,PTSD,Predicting,PresMuseum,Retreads,Revenge,Scrimshaw,TheBard,TheBends,TheBrave,TheElectoral,TheEnd,TheGreat,TheIrish,TheLegend,ThePsalms,TheRoots,TheScyth,Theater,Tick,Timeless,TransFats,
-                         Turbines,Unconscious,Veisalgia,WDFard,WhoWrote,Wind,Wright,TheDouble,Apollo,National,Bigfoot,Business,Streetcar,Odyssey,Courtroom,Rugby,Dreams,Egypt,Baseball,TaylorSwift,ArpaNet,Shakespeare2,Pokemon,Social2,VocabArt,QuietResilience];
+                         Turbines,Unconscious,Veisalgia,WDFard,WhoWrote,Wind,Wright,TheDouble,Apollo,National,Bigfoot,Business,Streetcar,Odyssey,Courtroom,Rugby,Dreams,Egypt,Baseball,TaylorSwift,ArpaNet,Shakespeare2,Pokemon,Social2,VocabArt,QuietResilience,GeographyEconomy];
 
         try {
         const testTitle = document.querySelector("h2.quiz-header-title").textContent;

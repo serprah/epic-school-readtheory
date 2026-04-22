@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         readtheory answer bot
+// @name         s.1.2v3
 // @version      1.0
 // @description  readtheory auto answer bot for only grade 12 quizzes.
 // @author       KingSerprah
@@ -16,7 +16,7 @@
 
         console.clear();
         console.log("ReadTheory Bot will start soon...");
-        console.log("%cReadtheory Bot", "color: white; -webkit-text-stroke: .5px black; font-size:15px; font-weight:bold;");   
+        console.log("%cReadtheory Bot", "color: white; -webkit-text-stroke: .5px black; font-size:15px; font-weight:bold;");
     setTimeout(() => {
          console.log("ReadTheory Bot started.");
 
